@@ -1,0 +1,25 @@
+Two Player game - 
+
+Problem statement .. 
+
+P1 has name,weapon and health
+P2 has name,weapon,health and armour
+
+two Gun G1 and G2 .. 
+
+P1 health reduces by -30 if hit by G1
+P1 health reduces by -50 if hit by G2
+
+As P2 has armour 
+
+if armour is true 
+If P2 is hit by G1 health reduces by -20
+If P2 is hit by G2 health reduces by -40 
+
+if armour if false reduce health same like P1.
+
+if health reacehs 0 player is dead 
+
+we have one method heal - any player attach heal to it then health reaches 100 .. 
+
+restrict health between 0 to 100 if greater than 100 or less than 0 set health to 100 ;

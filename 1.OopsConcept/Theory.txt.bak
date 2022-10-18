@@ -1,0 +1,33 @@
+OOPS - Object Oriented Programming Systems
+
+Object - Real world Identity - they have properties(data) and task (methods)
+
+Class - Blue Print that object follows 
+
+In order to communite between two class we create objects 
+
+Polymorphism - Many Forms 
+1 - Method Overloading - Compile time 
+2 - Method Overriding - Run Time 
+
+Inheritance - Method or Data from one Class can be inherited from other Class , helps in re-usability
+
+Encapsulation - Binding variables and methods under single entity 
+
+Abstraction - Showing only essential part and hiding the implementation 
+Example - when we download apk file we don't see package or code.
+
+Real time OOPs example - -
+ Mobile phone is real time entity so it is an object and it has own state , behaviour and identity
+ In Mobile Phone it's specifications are classes which are logic entites example - sensors , batterries , processors
+ Dialing number calls some methods internally some method is invoked but we only see functionality this is abstraction
+ Bluetooth in mobile to transfer data - we can trasnfer data and access data from other mobile which we have permission this is encapsulation
+ Click photos and record video - basic feature is same but different brands of mobile have different features like slow motion , split camera this is polymorphism
+ Basic purpose of mobile is communcation - but by extending and adding more feature this is inheritance 
+ 
+ 
+
+
+
+
+
