@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.OopsConcept.iml" filepath="$PROJECT_DIR$/.idea/1.OopsConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractionExample/AbstractionExample.iml" filepath="$PROJECT_DIR$/AbstractionExample/AbstractionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationExample/EncapsulationExample.iml" filepath="$PROJECT_DIR$/EncapsulationExample/EncapsulationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceExample/InheritanceExample.iml" filepath="$PROJECT_DIR$/InheritanceExample/InheritanceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolymorphismExample/PolymorphismExample.iml" filepath="$PROJECT_DIR$/PolymorphismExample/PolymorphismExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleGameProgram/SimpleGameProgram.iml" filepath="$PROJECT_DIR$/SimpleGameProgram/SimpleGameProgram.iml" />
+    </modules>
+  </component>
+</project>

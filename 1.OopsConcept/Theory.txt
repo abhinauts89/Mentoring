@@ -25,7 +25,7 @@ Real time OOPs example - -
  Click photos and record video - basic feature is same but different brands of mobile have different features like slow motion , split camera this is polymorphism
  Basic purpose of mobile is communcation - but by extending and adding more feature this is inheritance 
  
- 
+
 
 
 
