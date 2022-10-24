@@ -1,0 +1,35 @@
+Java 8 features -
+
+1 - Lambda Expression
+
+It is type of function with anonymous(Nameless) function , no return type and no modifier
+
+Why lambda - enables functional programming, readable and concise code , easier to use APi and Libraries
+and enables support for parallel processing.
+
+public int square(int num){
+ return num*num;
+}
+
+(num)-> return num*num;
+
+2 - Functional Interface
+
+It is special type of interface containing exactly one abstract method, can have multiple static and default methods
+also called Single Abstract Method interface , help us to achieve functional programming approach
+if parent is functional then child is also by default functional if we are not defining any extra abstract method in child
+
+3 - Stream API
+
+We can perform intermediate and terminal operation ,  we can get result from streams based on operation and manipulate data easily
+
+4 - Optional Class
+
+To avoid null pointer exception we keep adding null check everywhere , optional class provides better way to handle this
+
+5 - Method and Constructor Reference
+
+Method reference are special type of lambda expression used to create simple lambda expression by referring existing methods
+each time when you are using lambda expression to just refer method you can replace your lambda expression with method reference.
+biggest advantage of method reference is code re-usability
+this is alternative to lambda expression
